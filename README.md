@@ -41,7 +41,6 @@ Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 # 📂 Repository Structure
-data-warehouse-project/
 
 ![Screenshot (168)](https://github.com/user-attachments/assets/2b364607-1bca-492f-8ff7-a493e8a2b214)
 
